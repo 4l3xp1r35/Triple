@@ -1,4 +1,4 @@
-# README: Integer Triple Transformation Program
+# README: Integer Triple Transformation Project
 ## Overview
 This project involves the development of a solution to transform an integer into its triple using the lowest possible cost, with a predefined number of operations. It is implemented in Java and adheres to specific constraints with associated costs for each operation:
 
